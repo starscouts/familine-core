@@ -1,0 +1,40 @@
+{
+    "Global": {
+        "domain": "familine.minteck.org",
+        "cdn": "cdn.familine.minteck.org",
+        "federation": "auth.familine.minteck.org",
+        "support": "support@familine.minteck.org"
+    },
+
+    "Money": {
+        "terms": [
+            "Insérez ici",
+            "les conditions",
+            "d'utilisation de",
+            "votre instance de",
+            "Familine Money"
+        ],
+        "collect": "Insérez ici le nom de l'administrateur de Familine",
+        "refund": "refunds@familine.minteck.org",
+        "credit": "money@familine.minteck.org"
+    },
+
+    "Movies": {
+        "schedule": [
+            "Insérez ici",
+            "le programme des",
+            "prochaines sorties",
+            "qui seront publiées",
+            "sur Familine Movies"
+        ],
+        "adventures": "Insérez ici le nom pour compléter 'Les aventures de <...>'",
+        "legacy": "Insérez ici l'ancien nom du studio de productions",
+        "current": "Insérez ici le nom actuel du studio de productions",
+        "notes": [
+            "Insérez ici les",
+            "notes de mise à",
+            "jour de Familine",
+            "Movies."
+        ]
+    }
+}
